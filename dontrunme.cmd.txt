@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cmd.exe /s /q c:\
